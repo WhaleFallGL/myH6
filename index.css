@@ -1,0 +1,46 @@
+
+#center{
+    width: 1300px;
+    padding: 50px;
+    margin: 10px;
+    float: center;
+    top:400px;
+    }
+#one{
+    background-color:aliceblue;
+    width: 300px;
+    border: 3px solid red;
+    padding: 50px;
+    margin: 10px;
+    float:left;
+    }
+#two{
+    background-color: aliceblue;
+    width: 300px;
+    border: 3px solid green;
+    padding: 50px;
+    margin: 10px;
+    float: left;
+    }
+#three{
+    background-color: aliceblue;
+    width: 300px;
+    border: 3px solid blue;
+    padding: 50px;
+    margin: 10px;
+    float:left;
+    }
+#反馈{
+    position:fixed;
+    top:180px;
+    left:5px;
+    width: 20px;
+    height: 100px;
+    }
+#回到顶端{
+    position:fixed;
+    top:600px;
+    left:5px;
+    width: 20px;
+    height: 100px;
+    }
